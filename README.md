@@ -1,5 +1,7 @@
 # AI_Image Generation Resources
 
+## Sites
+
 | Resource | Link |
 | -------- | ---- |
 | ChatGPT | https://chatgpt.com/ |
